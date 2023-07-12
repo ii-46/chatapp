@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>710029820187-47r7clr9o5eqs30r50fhm9bjh9o81npl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.710029820187-47r7clr9o5eqs30r50fhm9bjh9o81npl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>710029820187-9lm8u9fneb3khgp7majii1jkial0st8c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBun-Qa8dZjWcdB0txNVfUYJ4m3Awd-fY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>710029820187</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>inthava.chat.app</string>
+	<key>PROJECT_ID</key>
+	<string>dev-plannet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dev-plannet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:710029820187:ios:9442b7204d4e94edd7d3be</string>
+</dict>
+</plist>

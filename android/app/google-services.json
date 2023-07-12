@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "710029820187",
+    "project_id": "dev-plannet",
+    "storage_bucket": "dev-plannet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710029820187:android:4b518046b31ec8fad7d3be",
+        "android_client_info": {
+          "package_name": "inthava.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710029820187-9lm8u9fneb3khgp7majii1jkial0st8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inthava.chat.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "710029820187-l8cm7pscquu287f1sr7m8qi814sj2ph3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Jq1FFvYmurx4iTZnBOeM9iKieNmvv_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710029820187-l8cm7pscquu287f1sr7m8qi814sj2ph3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710029820187-47r7clr9o5eqs30r50fhm9bjh9o81npl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "inthava.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
